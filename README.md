@@ -14,7 +14,7 @@ To Run the project, we need three enviornment to be installed
 3. Install visual code studio c++ build tool 
 
 4. Create a conda environment in Anaconda prompt by command  
-# (before executing make sure you are inside the rasa folder which is cd <your directory>/finalbotproject/rasa)
+# (before executing make sure you are inside the rasa folder which is cd <--your directory-->/finalbotproject/rasa)
  
  Once you are inside the rasa folder, please execute below commands
 
