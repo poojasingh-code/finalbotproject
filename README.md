@@ -42,7 +42,7 @@ this shall load the bot and you can chat via frontend.
 Summary
 
 There should be three separate terminals
-1. to run node server --> node server.js
+1. to run node server --> 1) npm init (to install all the dependency) 2)node server.js ( to finally run the server)
 2. to hit API --> rasa run -m models --cors "*" --debug
 3. to run action server --> rasa run actions
 
